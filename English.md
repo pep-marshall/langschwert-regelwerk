@@ -1,4 +1,4 @@
-# Longsword competitions
+# Longsword Competitions
 
 ## Rules of hit validity and fencing actions
 
