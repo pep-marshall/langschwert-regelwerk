@@ -1,6 +1,6 @@
 # langschwert-regelwerk
-Regelwerk für Langschwert Turnier / Ruleset for Longsword Tournaments
 
-Deutsch
+## Regelwerk für Langschwert Turnier / Ruleset for Longsword Tournaments
 
-English
+- [Langschwert Regelwerk auf Deutsch](Deutsch.md)
+- [Longsword Rulets in English](English.md)
