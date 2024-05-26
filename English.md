@@ -2,28 +2,30 @@
 
 ## Rules of hit validity and fencing actions
 
-1. All hits made with the true edge, the false edge, and the tip of the blade are valid if they are
+1. All hits made with the true edge, false edge, and the tip of the blade are valid if they are
    performed in such a way that it would have caused a wound to an unarmoured opponent, had the
-   weapon been sharp. Hits performed with the flat may be counted, if they bear the characteristics
-   of a coordinated and potent technique. It is up to the referee’s discretion to judge the validity
-   of hits.
+   weapon been sharp. Therefore hits performed entirely with the flat of the weapon as opposed
+   to questionable edge alignment or rotation are not counted. It is up to the referee’s discretion
+   to judge the validity of hits.
+   
+2. All hits must be performed with sufficient quality and martial intent. Strikes must travel through
+   a minimum arc radius of 45 degrees and thrusts must cause the weapon to visibly bend. Glancing blows
+   or thrusts, "touches", scratches with the tip, will be discounted.   
 
-2. Hits through the blade, that is to say those which bend over the opponent’s blade or cross-guard,
-   are not considered to be valid. However, the referee may count a hit as valid, if the opponent’s
-   blade has not closed the line of the attack, and it touches at the same time the valid target and
-   the weapon of the opponent, whenever they arrive clearly on the target.
+3. Hits through the blade; the referee may count a hit as valid, if the opponent’s
+   blade has not closed the line of the attack, and the attacker's blade touches the blade of the opponen
+   and a valid tarrget simultaneously.
 
-3. The target includes the whole of the fencer’s body, including the handle of the weapon, clothing,
-   and safety equipment, except for the back of the head, spine, the feet, and the back of the
-   knees.
+4. The target includes the whole of the fencer’s body, clothing, and safety equipment, except for the back
+   of the head, spine, the feet, and the back of the knees.
 
-4. Hits performed with the pommel may only count as valid if performed on the uncovered mesh part of
-   the opponent's mask; to any other targets they don't count as valid.
+5. Hits performed with the pommel may only count as valid if performed on the uncovered mesh part of
+   the opponent's mask. Pommel strikes are a visual signal to the judges, not a full force strike.
 
 ## *Vor* (priority)
 
 1.  The Referee alone decides as to the validity or the priority (*Vor*) of the hit by applying the
-    following basic rules which are the conventions applicable to longsword fencing.
+    following basic rules:
 
 2.  Any attack properly executed must be parried, or completely avoided, and the phrase must be
     continuous.
@@ -39,9 +41,9 @@
        precedes the launching of the lunge or other offensive footwork, and the hit arrives at the
        latest when the front foot hits the ground.
 
-5.  Attacks with step-forward-lunge or other compound footwork are not defined in this rulebook.
+5.  Attacks with a step-lunge or other compound footwork are not defined in this rulebook.
     Priority is assigned based on the start of the (attack with) lunge other simple offensive
-    footwork, while steps in any case are considered as preparations.
+    footwork. Steps prior to lunges are considered as preparations.
 
 6.  Actions, simple or compound, steps or feints, which are executed with bent arms, are not
     considered as attacks but as preparations, laying themselves open to the initiation of the
@@ -50,24 +52,23 @@
     against the preparing fencer.
 
 7.  In order to judge as to the correctness of an attack the following points must be considered:
-    1. If the attack is initiated when the opponent has their point passively in Langort (‘in line’)
-       the attacker must first deflect the opponent’s weapon. Referees must ensure that a mere
-       contact of the blades is not considered as sufficient to deflect the opponent’s blade.
+    1. If the attack is initiated when the opponent has their point passively in Langenort (‘point in line’)
+       the attacker must first deflect the opponent’s weapon ('taking the blade', 'prise de fer').
     2. If, when attempting to find the opponent’s blade to deflect it, the blade is not found, the
        right of attack passes to the opponent.
-    3. If the attack is commenced when the opponent’s blade is not in Langort, the attack may be
-       completed either direct, or by a disengagement or by a cutover, or else be preceded by feints
+    3. If the attack is commenced when the opponent’s blade is not in Langenort, the attack may be
+       completed either directly, or by a disengagement, or by a cutover, or else be preceded by feints
        which oblige the opponent to parry.
     4. In a compound attack the opponent has the right to stop-hit; but, in order to be valid, the
        stop hit must precede the last movement of the attack by one period of fencing time, i.e. the
        stop hit must arrive before the attacker has started the last movement of the attack itself.
 
-8.  The parry - properly carried out - gives the right to riposte; a simple riposte may be direct or
-    indirect, but in order to annul any subsequent movement by the attacker, it must be carried out
-    immediately, *without any hesitation or pause*. However, if the riposte is delayed so that a
-    renewed attack clearly starts before the riposte, then the renewed attack gains priority.
+8.  The parry - properly carried out - gives the right to a riposte. A riposte may be direct or
+    indirect (with a disengage), but in order to annul any subsequent movement by the attacker,
+    it must be carried out immediately, *without any hesitation or pause*. However, if the riposte is delayed
+    so that a renewed attack clearly starts before the riposte, then the renewed attack gains priority.
 
-9.  Against thrusts, and cuts with the edge, the flat, or the back edge of the blade, the object of
+10.  Against thrusts and cuts with the true or false edge of the blade, the object of
     the parry is to prevent hits made by the opponent arriving on the valid target; therefore:
     1. The parry is properly carried out when, before the completion of the attack, it prevents the
        arrival of that attack by closing the line in which that attack is to finish.
@@ -75,16 +76,15 @@
        judged as such by the Referee, even if, as a result of its flexibility, the tip of the
        opponent’s weapon makes contact with the target.
 
-10. Detailed examples and descriptions for application of Vor rule are described
+11. Detailed examples and descriptions for application of Vor rule are described
     [Appendix: Vor/Priority](appendices/02-priority.md)
 
 ## Close quarter combat
 
-1. Priority ceases to exist when the weapons of the opponents come together at *Stercke* on
-   *Stercke* (including the crossguard), and/or in case of grappling actions. In case the weapons
-   touch *Stercke* on *Stercke*, and a double hit follows immediately, both fencers are called a
-   point against. Otherwise, they may disengage and continue fencing (with priority rules), or enter
-   grappling (with grappling rules).
+1. Priority ceases to exist when the weapons of the opponents come together in "Krieg". Should the
+   weapons touch with strong on strong parts of the blade and a double hit follows immediately,
+   both fencers are called a point against. Otherwise, they may disengage and continue fencing with priority rules,
+   or enter grappling.
 
 ## Judging of hits
 
@@ -97,7 +97,7 @@
        time between the hits.
 
 2.  When there is a double hit, and if the Referee is unable clearly to judge from which side the
-    fault has come, the referee must not assign any points.
+    fault has come, the referee shall not assign any points.
 
 3.  In cases when a stop hit is made and there is doubt as to whether it was made sufficiently in
     time in relation to the final movement of a compound attack, the double hit often occurs through
