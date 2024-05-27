@@ -41,7 +41,7 @@
 
     i. bei einem einfachen Angriff, wenn der Beginn der Streckung der Arme dem Beginn des Ausfallschrittes
        oder einer anderen offensiven Beinarbeit vorausgeht und der Treffer spätestens dann erfolgt, wenn
-       der vordere Fuß den Boden berührt
+       der vordere Fuß den Boden berührt.
     ii. bei einem kombinierten Angriff, wenn der Beginn der Streckung der Arme bei der ersten Finte dem
         Beginn des Ausfallschrittes oder einer anderen offensiven Fußarbeit vorausgeht und der Treffer
         spätestens dann eintritt, wenn der vordere Fuß den Boden berührt.
@@ -76,11 +76,40 @@
     muss sie sofort, ohne Zögern oder Pause, ausgeführt werden. Wenn die Riposte jedoch so verzögert 
     wird, dass ein erneuter Angriff eindeutig vor der Riposte beginnt, dann hat der erneute Angriff Vorrang.
 
-9.	Gegen Hiebe und Schnitte mit der richtigen oder falschen Schneide der Klinge besteht der Zweck der
-    Parade darin, zu verhindern, dass die Treffer des Gegners das gültige Ziel erreichen; daher: 1. Die Parade
-    ist richtig ausgeführt, wenn sie vor der Vollendung des Angriffs die Ankunft dieses Angriffs verhindert,
-    indem sie die Linie schließt, in der dieser Angriff enden soll. 2. Wenn eine Parade korrekt ausgeführt wird,
-    muss der Angriff des Gegners als pariert erklärt und vom Hauptkampfrichter als solcher bewertet werden,
-    auch wenn die Spitze der gegnerischen Waffe aufgrund ihrer Flexibilität Kontakt mit dem Ziel hat.
+9.	Gegen Hiebe und Schnitte mit der langen oder kurzen Schneide der Klinge besteht der Zweck der
+    Parade darin, zu verhindern, dass die Treffer des Gegners das gültige Ziel erreichen; daher:
+  	i.    Die Parade ist richtig ausgeführt, wenn sie vor der Vollendung des Angriffs die Ankunft dieses Angriffs                     verhindert, indem sie die Linie schließt, in der dieser Angriff enden soll.
+  	ii.   Wenn eine Parade korrekt ausgeführt wird, muss der Angriff des Gegners als pariert erklärt und vom                          Hauptkampfrichter als solcher bewertet werden, auch wenn die Spitze der gegnerischen Waffe aufgrund ihrer                   Flexibilität Kontakt mit dem Ziel hat.
 
-10.	Detaillierte Beispiele und Beschreibungen für die Anwendung der Vor-Regel sind im Anhang beschrieben: Vor/Priorität
+11.	Detaillierte Beispiele und Beschreibungen für die Anwendung der Vor-Regel sind im Anhang beschrieben: Vor/Priorität
+
+## Nahkampf
+
+1. Der Vorrang entfällt, wenn die Waffen der Gegner im „Krieg“ aufeinandertreffen. Sollten sich die
+   Waffen mit starken auf starken Teilen der Klinge berühren und folgt sofort ein Doppeltreffer,
+   wird beiden Fechtern ein Punkt abgezogen. Andernfalls können sie sich lösen und nach den Prioritätsregeln
+   weiterfechten, oder in den Ringkampf übergehen.
+
+## Bewertung der Treffer
+
+1.  Wenn während eines Satzes beide Fechter innerhalb einer Fechtzeit getroffen werden, liegt entweder ein
+    gleichzeitige Aktion oder ein Doppeltreffer:
+    i. Die gleichzeitige Aktion ist auf die gleichzeitige Konzeption und Ausführung eines Angriffs durch beide Fechter          zurückzuführen; in diesem Fall wird beiden Fechtern ein Gegenpunkt zugesprochen.
+    i. Der Doppeltreffer hingegen ist das Ergebnis einer eindeutig fehlerhaften Aktion eines der Fechter, die den Regeln        entspricht. Wenn also zwischen den Treffern kein Zeitintervall für das Fechten vorhanden ist.
+
+2.  Liegt ein Doppeltreffer vor und ist der Kampfrichter nicht in der Lage, eindeutig zu beurteilen,
+    von welcher Seite der Fehler ausgegangen ist, darf er keine Punkte vergeben.
+
+3.  In Fällen, in denen ein Stopptreffer (Stop-hit) ausgeführt wird und Zweifel bestehen, ob er rechtzeitig
+    in Bezug auf die Endbewegung eines zusammengesetzten Angriffs, entsteht der Doppeltreffer oft durch
+    das Verschulden beider betroffener Fechter. Da es sich hier eindeutig nicht um einen taktisch symmetrischen Fall            handelt, sollte der Kampfrichter keine Punkte vergeben. (Der Fehler des Angreifers besteht in Unentschlossenheit,           Langsamkeit (Der Fehler des Angreifers besteht in Unentschlossenheit, Langsamkeit der Ausführung oder in der
+    Ausführung von Finten, die nicht ausreichend wirksam sind. Der Fehler des Verteidigers liegt in der Verzögerung oder        Verlangsamung des Stopptreffers.)
+
+4.  Alle Aktionen, die ausgeführt werden, während die Waffe nur mit einer Hand gehalten wird, können nur gewertet werden,       wenn der Fechter keinen Angriff oder Gegenangriff mit einer beidhändig gehaltenen Waffe innerhalb einer
+    der Fechtzeit.
+
+5.  Reagiert der Gegner jedoch auf den Angriff mit einer einhändig gehaltenen Waffe mit dem Versuch einer
+    reagiert er jedoch auf den Angriff mit einer einhändig gehaltenen Waffe mit dem Versuch zu parieren, so
+    geht das Initiativrecht nach einer erfolglosen Parade wieder an den Einhänder zurück.
+
+6.  In Fällen, in denen beide Fechter mit einer einhändig gehaltenen Waffe innerhalb der Zeit getroffen werden, erfolgt die     Bewertung der Aktion nach den regulären Prioritätsregeln.
