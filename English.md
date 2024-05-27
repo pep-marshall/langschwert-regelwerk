@@ -13,8 +13,8 @@
    or thrusts, "touches", scratches with the tip, will be discounted.   
 
 3. Hits through the blade; the referee may count a hit as valid, if the opponent’s
-   blade has not closed the line of the attack, and the attacker's blade touches the blade of the opponen
-   and a valid tarrget simultaneously.
+   blade has not closed the line of the attack, and the attacker's blade touches the blade of the opponent
+   and a valid target simultaneously.
 
 4. The target includes the whole of the fencer’s body, clothing, and safety equipment, except for the back
    of the head, spine, the feet, and the back of the knees.
@@ -34,12 +34,12 @@
     edge continuously threatening the valid target, precedes the initiation of the footwork action.
 
 4.  An attack with a lunge (or other offensive footwork) is correctly carried out:
-    1. in a simple attack when the beginning of the straightening of the arms precedes the launching
-       of the lunge or other offensive footwork, and the hit arrives at the latest when the front
-       foot hits the ground
-    2. in a compound attack when the beginning of the straightening of the arms, on the first feint,
-       precedes the launching of the lunge or other offensive footwork, and the hit arrives at the
-       latest when the front foot hits the ground.
+    i.    in a simple attack when the beginning of the straightening of the arms precedes the launching
+          of the lunge or other offensive footwork, and the hit arrives at the latest when the front
+          foot hits the ground
+    ii.   in a compound attack when the beginning of the straightening of the arms, on the first feint,
+          precedes the launching of the lunge or other offensive footwork, and the hit arrives at the
+          latest when the front foot hits the ground.
 
 5.  Attacks with a step-lunge or other compound footwork are not defined in this rulebook.
     Priority is assigned based on the start of the (attack with) lunge other simple offensive
@@ -52,31 +52,31 @@
     against the preparing fencer.
 
 7.  In order to judge as to the correctness of an attack the following points must be considered:
-    1. If the attack is initiated when the opponent has their point passively in Langenort (‘point in line’)
-       the attacker must first deflect the opponent’s weapon ('taking the blade', 'prise de fer').
-    2. If, when attempting to find the opponent’s blade to deflect it, the blade is not found, the
-       right of attack passes to the opponent.
-    3. If the attack is commenced when the opponent’s blade is not in Langenort, the attack may be
-       completed either directly, or by a disengagement, or by a cutover, or else be preceded by feints
-       which oblige the opponent to parry.
-    4. In a compound attack the opponent has the right to stop-hit; but, in order to be valid, the
-       stop hit must precede the last movement of the attack by one period of fencing time, i.e. the
-       stop hit must arrive before the attacker has started the last movement of the attack itself.
+    i.   If the attack is initiated when the opponent has their point passively in Langenort (‘point in line’)
+         the attacker must first deflect the opponent’s weapon ('taking the blade', 'prise de fer').
+    ii.  If, when attempting to find the opponent’s blade to deflect it, the blade is not found, the
+         right of attack passes to the opponent.
+    iii. If the attack is commenced when the opponent’s blade is not in Langenort, the attack may be
+         completed either directly, or by a disengagement, or by a cutover, or else be preceded by feints
+         which oblige the opponent to parry.
+    iv.  In a compound attack the opponent has the right to stop-hit; but, in order to be valid, the
+         stop hit must precede the last movement of the attack by one period of fencing time, i.e. the
+         stop hit must arrive before the attacker has started the last movement of the attack itself.
 
 8.  The parry - properly carried out - gives the right to a riposte. A riposte may be direct or
     indirect (with a disengage), but in order to annul any subsequent movement by the attacker,
     it must be carried out immediately, *without any hesitation or pause*. However, if the riposte is delayed
     so that a renewed attack clearly starts before the riposte, then the renewed attack gains priority.
 
-10.  Against thrusts and cuts with the true or false edge of the blade, the object of
+9.  Against thrusts and cuts with the true or false edge of the blade, the object of
     the parry is to prevent hits made by the opponent arriving on the valid target; therefore:
-    1. The parry is properly carried out when, before the completion of the attack, it prevents the
+    i. The parry is properly carried out when, before the completion of the attack, it prevents the
        arrival of that attack by closing the line in which that attack is to finish.
-    2. When a parry is properly executed, the attack by the opponent must be declared parried, and
+    i. When a parry is properly executed, the attack by the opponent must be declared parried, and
        judged as such by the Referee, even if, as a result of its flexibility, the tip of the
        opponent’s weapon makes contact with the target.
 
-11. Detailed examples and descriptions for application of Vor rule are described
+10. Detailed examples and descriptions for application of Vor rule are described
     [Appendix: Vor/Priority](appendices/02-priority.md)
 
 ## Close quarter combat
