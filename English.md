@@ -76,7 +76,7 @@
        judged as such by the Referee, even if, as a result of its flexibility, the tip of the
        opponent’s weapon makes contact with the target.
 
-10. Detailed examples and descriptions for application of Vor rule are described
+10. Detailed examples and descriptions for application of Vor rule are described here:
     [Vor-Priority](Vor-Priority.md)
 
 ## Close quarter combat
