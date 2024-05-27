@@ -81,7 +81,7 @@
   	i.    Die Parade ist richtig ausgeführt, wenn sie vor der Vollendung des Angriffs die Ankunft dieses Angriffs                     verhindert, indem sie die Linie schließt, in der dieser Angriff enden soll.
   	ii.   Wenn eine Parade korrekt ausgeführt wird, muss der Angriff des Gegners als pariert erklärt und vom                          Hauptkampfrichter als solcher bewertet werden, auch wenn die Spitze der gegnerischen Waffe aufgrund ihrer                   Flexibilität Kontakt mit dem Ziel hat.
 
-10.	Detaillierte Beispiele und Beschreibungen für die Anwendung der Vor-Regel sind im Anhang beschrieben: Vor/Priorität
+10.	Detaillierte Beispiele und Beschreibungen für die Anwendung der Vor-Regel sind im Anhang beschrieben:
     [Vor-Priorität](Vor-Priorität.md)
 
 ## Nahkampf
